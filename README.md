@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning about python,java & web development
 - 💞️ I’m looking to collaborate on "no one here"
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love Games. I'm play all kind of Games but not FF
 
 <!---
 Ereh939/Ereh939 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
